@@ -1,0 +1,1 @@
+# sorteio-jogadores-times-para-pelada
